@@ -39,10 +39,7 @@
 
 ---
 
-## 🚧 Current Projects
-
-- 🧩 Contributing to several professional projects, including:  
-  ‣ The website for **Étoile Formation 🎓**, developed with **GCS Holding** as part of my internship using **WordPress**  
+## 🚧 Current Projects 
 - Building full-stack applications using React + Express  
 - Developing RESTful APIs with Node.js & PHP  
 - Designing and managing MySQL databases
